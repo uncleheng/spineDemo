@@ -1,0 +1,4 @@
+include ':SpineLib'
+include ':app'
+//include ':libgdx_spine'
+rootProject.name = "PresentationSpineRuntime"
